@@ -2,32 +2,33 @@
 <html>
     <head>
         <title>
-            Address Book
+           Tristan
         </title>
+        <link href="https://TAB107/css/main.css" rel="stylesheet" type"text/css">
     </head>
     
-    <body style="background-color:white;">
-        <table border="2" style="font-size:15px;">
-            <tr style="color:black; font-size:30px;">
+        <body >
+            <table border="2" style="font-size:15px;">
+            <tr >
                 <th>Guys this is so epic.</th>
                 <th>Guys this is so epic.</th>
                 
             </tr>
-            <tr style="background-color:white;">
+            <tr>
                 <td>my website is so epic</td>
                 <td></td>
                 
             </tr>
-            <tr style="color:black;">
+            <tr >
                 <td></td>
                 <td></td>
                 
             </tr>
-            <tr style="background-color:white;">
+            <tr
                 <td></td>
                 <td></td>
-                
-            </tr> <tr style="background-color:white;">
+            </tr> 
+            <tr>
                 <td></td>
                 <td></td>
                 
